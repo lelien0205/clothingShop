@@ -1,0 +1,18 @@
+:root {
+  --dark-gray: #088178; /* Màu xanh ngọc đậm */
+  --deep-navy-blue: #041e42; /* Màu xanh đậm */
+  --soft-green: #cce7d0; /* Màu xanh nhạt mới */
+  --almost-black: #1a1a1a; /* Màu xám đậm gần như đen */
+  --light: #e3e6f3; /* Màu nền sáng, xám nhạt */
+  --dark-green: #465b52; /* Màu xám xanh đậm */
+  --almost-black: #222222; /* Màu tối, gần như đen */
+  --light-pink: #fddde4; /* Màu hồng nhạt */
+  --pale-green: #cdebbc; /* Màu xanh lá nhạt */
+  --sky-blue: #d1e8f2; /* Màu xanh da trời nhạt */
+  --lavender-blue: #cdd4f8; /* Màu xanh tím nhạt */
+  --pastel-pink: #f6dbf6; /* Màu hồng phấn */
+  --peach-cream: #fff2e5; /* Màu kem đào nhạt */
+  --dark-gray-neutral: #606063; /* Màu xám đậm trung tính */
+  --white: #fff;
+  --red: #ef3636;
+}
